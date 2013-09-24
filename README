@@ -1,0 +1,13 @@
+chaotic extended series renamer. write only m(
+
+usage:
+
+	series_rename.sh $folder "SERIES NAME"
+
+if SERIES NAME is not given it'll try to guess from parent folder.
+
+renaming scheme:
+
+	SERIES_NAME - Season 101 - 01 - Name
+
+file extension is ommited as it's not needed.
